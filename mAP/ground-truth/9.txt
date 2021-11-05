@@ -1,0 +1,3 @@
+round_green 1226 869 1267 962
+unknown_yellow 983 875 1018 958
+unknown_red 331 955 366 1035

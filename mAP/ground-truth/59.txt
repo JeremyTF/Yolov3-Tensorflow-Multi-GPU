@@ -1,0 +1,5 @@
+Left_red 205 513 277 671
+round_red 962 492 1037 655
+round_red 1714 528 1790 688
+round_green 996 847 1036 933
+round_green 1404 855 1446 941

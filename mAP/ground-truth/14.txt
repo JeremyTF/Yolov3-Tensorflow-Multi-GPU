@@ -1,0 +1,4 @@
+Left_red 2 576 72 732
+round_red 433 572 509 730
+round_red 1113 896 1191 1052
+round_red 1646 413 1836 768

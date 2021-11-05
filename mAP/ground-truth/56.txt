@@ -1,0 +1,4 @@
+Left_green 782 692 832 797
+Left_green 692 975 737 1074
+round_green 1203 704 1251 812
+round_green 1825 839 1911 997

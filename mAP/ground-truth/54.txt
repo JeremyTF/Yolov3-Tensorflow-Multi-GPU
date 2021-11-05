@@ -1,0 +1,7 @@
+round_green 1308 928 1334 984
+round_red 1692 964 1736 1012
+round_red 1374 778 1416 872
+Left_red 1069 735 1111 827
+unknown_red 423 912 465 998
+unknown_red 744 1007 766 1057
+unknown_red 1125 906 1149 958

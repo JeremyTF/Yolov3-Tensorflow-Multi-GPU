@@ -1,0 +1,4 @@
+unknown_red 969 851 999 913
+round_green 1212 846 1242 910
+round_green 1645 969 1683 1043
+round_green 1534 993 1570 1063

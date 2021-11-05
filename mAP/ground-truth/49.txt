@@ -1,0 +1,4 @@
+unknown_red 1139 879 1166 936
+unknown_red 1151 1007 1178 1064
+round_red 1345 884 1372 943
+round_red 1753 985 1787 1039

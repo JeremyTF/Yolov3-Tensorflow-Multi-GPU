@@ -1,0 +1,3 @@
+Left_red 102 558 181 725
+round_green 794 571 876 739
+round_green 1844 884 1919 1049

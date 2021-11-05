@@ -1,0 +1,13 @@
+train loss: 8.37:  95%|█████████▌| 15865/16623 [2:02:56<05:26,  2.32it/s]Traceback (most recent call last):
+  File "train.py", line 182, in <module>
+    if __name__ == '__main__': YoloTrain().train()
+  File "train.py", line 143, in train
+    for train_data in pbar:
+  File "/home/lei/env/tensorflow/local/lib/python2.7/site-packages/tqdm/_tqdm.py", line 1060, in __iter__
+    for obj in iterable:
+  File "/media/lei/DATA/object_detection/tensorflow-yolov3/core/dataset.py", line 83, in next
+    label_sbbox, label_mbbox, label_lbbox, sbboxes, mbboxes, lbboxes = self.preprocess_true_boxes(bboxes)
+  File "/media/lei/DATA/object_detection/tensorflow-yolov3/core/dataset.py", line 231, in preprocess_true_boxes
+    label[i][yind, xind, iou_mask, :] = 0
+IndexError: index 46 is out of bounds for axis 1 with size 44
+

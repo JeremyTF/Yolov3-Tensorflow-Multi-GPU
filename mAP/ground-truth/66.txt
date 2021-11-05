@@ -1,0 +1,3 @@
+round_yellow 1147 919 1170 969
+round_yellow 1513 990 1550 1053
+Left_red 962 929 984 980
